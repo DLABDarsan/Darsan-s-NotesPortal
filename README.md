@@ -34,7 +34,8 @@
   
 </ul>
     
-       <hr><h4>CHEMISTRY</h4>
+      
+    <h4>CHEMISTRY</h4>
 
 <ul>
   <li><a href="https://www.mediafire.com/download/ae19lx8345ckg33/1._SOME_BASIC_CONCEPTS_OF_CHEMISTRY.pdf">chapter 1-SOME_BASIC_CONCEPTS_OF_CHEMISTRY</a></li>
@@ -75,13 +76,7 @@
   
   
 </ul>
- <h3>
-  ABOUT ME
-</h3><br>
-<p>I am Darsan. Born on  18th  march 2005.</p>
-<p>My passion is technology.I've a youtube channel named <strong><a href="https://www.youtube.com/channel/UCMe_fkSjE4TIkEVFlcI1SOwhttps://www.youtube.com/channel/UCMe_fkSjE4TIkEVFlcI1SOw">DLABS</a></strong>  </p>
-  <p>I don't have any big achievements.I made this Site as a part of my learning using only html5.That's why the Site look old as 90's</p>
-<br><hr>
+ 
 <h3>My videoes</h3>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=5rYETqlYy6Y&t=91s">d882 voltage amplifier</a></li>
