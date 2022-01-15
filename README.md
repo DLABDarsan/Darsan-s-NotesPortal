@@ -35,7 +35,7 @@
 </ul>
     
       
-    <h4>CHEMISTRY</h4>
+    <h4>Chemistry was </h4>
 
 <ul>
   <li><a href="https://www.mediafire.com/download/ae19lx8345ckg33/1._SOME_BASIC_CONCEPTS_OF_CHEMISTRY.pdf">chapter 1-SOME_BASIC_CONCEPTS_OF_CHEMISTRY</a></li>
@@ -56,7 +56,7 @@
   
 </ul>
     
-       <hr><h4>MATHEMATICS</h4>
+       <hr><h4>Mathematics </h4>
 
 <ul>
   <li><a href="https://www.mediafire.com/file/myeeuaiwkw2pjfh/HSSLiVE-XI-Maths_CH+1+SETS-Remesh.pdf/file">chapter 1-+SETS</a></li>
