@@ -33,6 +33,48 @@
    <li><a href="https://www.mediafire.com/file/2pkzi9xdhsb937b/Chapter_15-_Waves.pdf/file">chapter 15-Waves</a></li>
   
 </ul>
+    
+       <hr><h4>CHEMISTRY</h4>
+
+<ul>
+  <li><a href="https://www.mediafire.com/download/ae19lx8345ckg33/1._SOME_BASIC_CONCEPTS_OF_CHEMISTRY.pdf">chapter 1-SOME_BASIC_CONCEPTS_OF_CHEMISTRY</a></li>
+  <li><a href="https://www.mediafire.com/file/nkcdl1a811cz3ah/Hsslive-XI-chem-2._Atomic_Structure.pdf/file">chapter 2-Atomic_Structure</a></li>
+  <li><a href="https://www.mediafire.com/download/3nz6c7g5zlcdvgr/3._CLASSIFICATION_OF_ELEMENTS_AND_PERIODICITY_IN_PROPERTIES.pdf">Chapter 3-CLASSIFICATION_OF_ELEMENTS_AND_PERIODICITY_IN_PROPERTIES Line</a></li>
+  <li><a href="https://www.mediafire.com/download/jze9ulo9rj0r9uf/4._Chemical_bonding_and_Molecular_Structure.pdf">chapter 4-Chemical_bonding_and_Molecular_Structure</a></li>
+  <li><a href="https://www.mediafire.com/file/s8lcmbbjzjo6c1p/5._STATES_OF_MATTER-anil-hsslive.pdf">chapter 5-STATES_OF_MATTER</a></li>
+  <li><a href="https://www.mediafire.com/file/3pykh8ldetm11n3/Hsslive-XI-Cheem-Ch-6_Thermodynamics.pdf">chapter 6-Thermodynamics</a></li>
+  <li><a href="https://www.mediafire.com/file/l7gc39uapkk33n7/Hsslive-XI-Chem-ch-7_EQUILIBRIUM.pdf">chapter 7-EQUILIBRIUM</a></li>
+  <li><a href="https://www.mediafire.com/file/e0ber2xpxp7q7rd/XI-chemistry-ch-8-REDOX-REACTIONS-Anil-Hsslive.pdf">chapter 8-REDOX-REACTIONS</a></li>
+   <li><a href="https://www.mediafire.com/file/o3bgp3rxp2idn9z/Hsslive-xi-chemistry-9._HYDROGEN-anil-sir.pdf/file">chapter 9-HYDROGEN</a></li>
+  <li><a href="https://www.mediafire.com/download/32zp3jlea0epwcd/10_The_s-block_elements.pdf">chapter 10-s-block_elements</a></li>
+   <li><a href="https://www.mediafire.com/file/kw9z68harqesvkc/Hsslive-xi-chemistry-11._The_p-Block_Elements-anil-sir.pdf/file">chapter 11-The_p-Block_Elements</a></li>
+  <li><a href="https://www.mediafire.com/download/0hjty7hpot405b8/12._Organin_chemistry_-_some_basic_concepts.pdf">chapter 12-Organin_chemistry_-_some_basic_concepts</a></li>
+   <li><a href="https://www.mediafire.com/download/lsiuhngflphpy35/13._HYDROCARBONS.pdf">chapter 13-HYDROCARBONS</a></li>
+   <li><a href="https://www.mediafire.com/download/3yy5xmd36az3adn/XI_Chemistry_HssLiVE_Anil_14__ENVIRONMENTAL_CHEMISTRY.pdf">chapter 14-ENVIRONMENTAL_CHEMISTRY</a></li>
+  
+  
+</ul>
+    
+       <hr><h4>MATHEMATICS</h4>
+
+<ul>
+  <li><a href="https://www.mediafire.com/file/myeeuaiwkw2pjfh/HSSLiVE-XI-Maths_CH+1+SETS-Remesh.pdf/file">chapter 1-+SETS</a></li>
+  <li><a href="https://www.mediafire.com/file/3llkz1cw3zcdjsz/HSSLiVE-XI-Maths_CH+2-RELATIONS-FUNCTIONS-Remesh.pdf/file">chapter 2-RELATIONS-FUNCTIONS</a></li>
+  <li><a href="https://www.mediafire.com/file/gafzo0cnu2j0hx9/HSSLiVE-XI-Maths_CH-3_-TRIGONOMETRY-Remesh.pdf">Chapter 3-TRIGONOMETRY</a></li>
+  <li><a href="https://www.mediafire.com/download/a4jb51bt30lsbpa/XI_PRINCIPLE_OF_MATHEMATICAL_INDUCTION-Remesh-hsslive.pdf">chapter 4-PRINCIPLE_OF_MATHEMATICAL_INDUCTION</a></li>
+  <li><a href="https://www.mediafire.com/download/6wiijy3g2o4c256/XI_Maths_Complex_Numbers_hsslive_remesh.pdf">chapter 5-Maths_Complex_Numbers</a></li>
+  <li><a href="https://www.mediafire.com/file/x8hsz0nyp4paxs9/XI-Maths-LINEAR_INEQUALITIES-ramesh-hsslive.pdf">chapter 6-LINEAR_INEQUALITIES</a></li>
+  <li><a href="https://www.mediafire.com/file/rl639bo3n55je3e/XI-Maths-chapt-7-remesh-hsslive-PERMUTATIONS-CMBINATIONS.pdf">chapter 7-PERMUTATIONS-CMBINATIONS</a></li>
+  <li><a href="https://www.mediafire.com/file/av6b97ub5y5ptax/8._XI-BINOMIAL_THEOREM-remesh-hsslive.pdf">chapter 8-BINOMIAL_THEOREM</a></li>
+   <li><a href="https://www.mediafire.com/file/wawe44y8ibo1as6/XI-CH_9_SEQUENCES_AND_SERIES-Ramesh-hsslive.pdf">chapter 9-SEQUENCES_AND_SERIES</a></li>
+  <li><a href="https://www.mediafire.com/file/b3b35i69sti2bu9/XI-10_STRAIGHT_LINES-remesh-hsslive.pdf">chapter 10-STRAIGHT_LINES</a></li>
+   <li><a href="https://www.mediafire.com/file/n944g5lkjczzl8z/Hsslive-XI-maths-ch-11-conic-sections.pdf/file">chapter 11-conic-sections</a></li>
+  <li><a href="https://www.mediafire.com/file/2pkdqetyayjorw9/Hsslive-CH%2012.%20INTRODUCTION%20TO%20THREE%20DIMENSIONAL%20GEOMETRY.pdf">chapter 12-Intro to 3d Geometry</a></li>
+   <li><a href="https://www.mediafire.com/file/pkxycldsc5mmdy5/CH_13_LIMITS%26_DERIVATIVES_NOTE.pdf">chapter 13-Limits and Derivatives</a></li>
+   <li><a href="https://www.mediafire.com/file/5a4f9dglevrxcun/XI-CH_14._Mathematical_Reasoning-Remesh-hsslive.pdf">chapter 14-Mathematical_Reasoning</a></li>
+  
+  
+</ul>
  <h3>
   ABOUT ME
 </h3><br>
