@@ -13,6 +13,7 @@
 <h2>
    plus One Notes
 </h2>
+     <h3>from HSS.LIVE</h3>
     <hr><h4>PHYSICS</h4>
 
 <ul>
@@ -35,7 +36,7 @@
 </ul>
     
       
-    <h4>Chemistry was </h4>
+     <hr><h4>Chemistry</h4>
 
 <ul>
   <li><a href="https://www.mediafire.com/download/ae19lx8345ckg33/1._SOME_BASIC_CONCEPTS_OF_CHEMISTRY.pdf">chapter 1-SOME_BASIC_CONCEPTS_OF_CHEMISTRY</a></li>
@@ -76,6 +77,24 @@
   
   
 </ul>
+    <hr><h4>ENGLISH</h4>
+    <ul>
+  <li><a href="https://www.mediafire.com/download/4lqkgw4bqhl8a2x/Lesson1_His_First_Flight.pdf">Unit 1-Lesson1_His_First_Flight</a></li>
+  <li><a href="https://www.mediafire.com/download/fu5gvy2vqx359ug/Lesson2_I_will_Fly.pdf">Unit 1-Lesson2_I_will_Fly</a></li>
+  <li><a href="https://www.mediafire.com/download/y5458jx6vwj61z6/Unit_1_IF_Rudyard_kipling_hsslive.pdf">Unit 1-IF_Rudyard_kipling_ </a></li>
+  <li><a href="https://www.mediafire.com/download/zvyb3p92mzya159/Unit_2_And_then_Gandhi_hsslive.pdf">Unit 1-And_then_Gandhi_</a></li>
+  <li><a href="https://www.mediafire.com/download/62mkh18suez76zp/Unit_2_Price_of_flowers_prabhat_hsslive.pdf">Unit 2-Price_of_flowers_</a></li>
+  <li><a href="https://www.mediafire.com/download/izbm38gw0qxjo9a/HSSLive_Plusone_english_unit2_Death_the_leveller.pdf">Unit 2-Death_the_leveller</a></li>
+  <li><a href="https://www.mediafire.com/download/5gj54feq4bf6ef4/Unit3_sunrice_on_the_hills_1.pdf">Unit3_sunrice_on_the_hills</a></li>
+  <li><a href="https://www.mediafire.com/download/9bbjjuvz0mq7z1o/Unit3_Trip_of_Le_horla_2.pdf">Unit3_Trip_of_Le_horla</a></li>
+   <li><a href="https://www.mediafire.com/download/o7f381sq8rtf7wn/Unit3_sacred_turtles_of_kadavu_3.pdf">Unit3_sacred_turtles_of_kadavu_</a></li>
+  <li><a href="https://www.mediafire.com/file/eluacyl2j8bgc02/XI-English-Character_of_Serang-Ananthi-hsslive.pdf">Unit 4-Character_of_Serang-Ananthi</a></li>
+   <li><a href="https://www.mediafire.com/file/4dna8atc4a6tec9/HSSlive-XI-English-Unit-4-chapter-3-The%20Wreck%20of%20the%20Titanic.pdf">Unit 4- The Wreck of Titanic</a></li>
+  <li><a href="https://www.mediafire.com/file/xh4sdm7dypuigo0/XI-english-unit5-chap1-Gooseberries-review-ananthi-hsslive.pdf">-unit5-chap1-Gooseberries-</a></li>
+   <li><a href="https://www.mediafire.com/file/j7z1pl76vm9u2r4/XI-English-UNIT_5__CHAPTER_3_GOING_OUT_FOR_A_WALK-Ananthi-hsslive.pdf">UNIT_5__CHAPTER_3_GOING_OUT_FOR_A_WALK</a></li>
+  
+</ul>
+    
  
 <h3>My videoes</h3>
 <ul>
