@@ -36,7 +36,7 @@
 </ul>
     
       
-     <hr><h4>Chemistry</h4>
+     <hr><h4>Chemistry </h4>
 
 <ul>
   <li><a href="https://www.mediafire.com/download/ae19lx8345ckg33/1._SOME_BASIC_CONCEPTS_OF_CHEMISTRY.pdf">chapter 1-SOME_BASIC_CONCEPTS_OF_CHEMISTRY</a></li>
